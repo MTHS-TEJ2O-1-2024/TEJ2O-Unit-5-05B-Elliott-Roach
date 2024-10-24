@@ -2,6 +2,7 @@
 Created by: Elliott Roach
 Created on: oct 2024
 This module is a Micro:bit MicroPython program
+py2hex ./main.py
 """
 
 from microbit import *
